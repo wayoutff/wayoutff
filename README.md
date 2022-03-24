@@ -10,6 +10,13 @@
 	</a>
 </p>
 
+## Front-end
+<p align="center">
+	<a href="https://github.com/formidablae/pig_game">
+		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=wayoutff&repo=hooks&hide_border=true&theme=dark">
+	</a>
+</p>
+
 ## tools, docs
 <p align="center">
 	<a href="https://github.com/formidablae/pig_game">
