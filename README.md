@@ -1,1 +1,6 @@
-## 👋
+- 👋 Hi, I’m @wayoutff — a full-stack & mobile developer.
+- 🛠️ I build web and mobile apps and work on fintech products.
+- 🔍 I enjoy figuring out how things work — from application code to the systems running it.
+- 🏠 Into homelabbing, self-hosting, and gaming.
+- 🌱 Currently digging deeper into Go, Kubernetes, and Linux internals.
+- 📫 Let’s connect: [t.me/wayoutff](https://t.me/wayoutff).
